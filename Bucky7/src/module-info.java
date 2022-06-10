@@ -1,0 +1,2 @@
+module Bucky7 {
+}
